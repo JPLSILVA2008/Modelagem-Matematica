@@ -1,0 +1,13 @@
+Função do 1 Grau:
+
+f(x)=ax+b (a=!0)
+a --> coeficiente angular --> inclinação da reta --> a>0(crescente) a<0(decrescente)
+b --> coeficiente linear --> ponto onde a reta corta o eixo Y (x=0)
+Raizes da função f(x)=0 --> x=-b/a
+
+Função do 2 Grau:
+
+f(x)=ax**2 + bx + c (a=!0)
+a>0 --> concavidade voltada para cima --> Possui ponto de Mínimo 
+a<0 --> concavidade voltada para baixo --> Possui ponto de Máximo
+Raizes --> Bhaskara --> b**2-4ac -->x=-b(+ ou -) Delta/2a

@@ -1,0 +1,16 @@
+Produto Cartesiano:
+
+O Produto Cartesiano entre dois conjuntos, A e B, é o conjunto formado por todos os pares ordenados (x, y) possíveis,
+onde o primeiro elemento x pertence obrigatoriamente ao conjunto A e o segundo elemento y pertence ao conjunto B.
+A ordem importa pois AXB é diferente BXA
+
+Relações Binárias:
+Uma Relação Binária de A em B é simplesmente qualquer subconjunto do Produto Cartesiano AXB.
+Ou seja, é uma seleção de pares ordenados que obedecem a uma determinada regra ou lei de associação.
+Domínio --> É o conjunto de todos primeiros elementos(A)
+Contradomínio --> É o conjunto de chegada inteiro (B)
+Imagem --> É o conjunto de todos os segundos elementos dos pares ordenados que foram gerados pela regra 
+
+Quando a Relação Binária vira uma função?
+
+Para isso acontecer Todo elemento de A deve partir uma única seta (não podendo se ligar com mais de uma seta)
